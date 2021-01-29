@@ -11,7 +11,7 @@
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
-                font-size: 13px;
+                font-size: 15px;
                 font-weight: 600;
                 word-break: break-all;
                 line-height: 2.0;
